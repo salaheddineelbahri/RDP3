@@ -1,5 +1,5 @@
 ##  Copy the linux command from http://remotedesktop.google.com/headless  ##
-CRP1 = 'DISPLAY= /opt/google/chrome-remote-desktop/start-host --code="4/0AX4XfWgHdI6jC3-ChlO7YPAPhPixkycxFC3m6eT4vQ-azWp-VmYjatTappBmLuVWRLgByQ" --redirect-url="https://remotedesktop.google.com/_/oauthredirect" --name=$(hostname)'
+CRP1 = 'DISPLAY= /opt/google/chrome-remote-desktop/start-host --code="4/0AX4XfWhdLBAP7V79qGb4lP9GwJVi9RuMXa_O1IXJWn82pC8xUresGEce4EgGJwmp--RG3g" --redirect-url="https://remotedesktop.google.com/_/oauthredirect" --name=$(hostname)'
 Pin = 123456 ## rdp pin
 Name = "RDP"    ## rdp name
 import os,subprocess
